@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vAKyrWSiQ/LhCDRwAHO5y4h3117o190cZbPROnc+FOwFmy0K3mNnKgn6kqED876bVkhoSBEFBZ3L4REKvG0yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohammad\\Source\\Repos\\AggregateSample\\AggregateSample\\AuctionSample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.xaniis.local/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

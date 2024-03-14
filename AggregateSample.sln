@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionSample", "AggregateSample\AuctionSample.csproj", "{17AF2892-5832-4F89-A76C-AD9DDA9296D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodReservation", "FoodReservation\FoodReservation.csproj", "{2DFB788A-543F-4EC4-88BB-7C760543F286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AF2892-5832-4F89-A76C-AD9DDA9296D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AF2892-5832-4F89-A76C-AD9DDA9296D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AF2892-5832-4F89-A76C-AD9DDA9296D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AF2892-5832-4F89-A76C-AD9DDA9296D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFB788A-543F-4EC4-88BB-7C760543F286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFB788A-543F-4EC4-88BB-7C760543F286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFB788A-543F-4EC4-88BB-7C760543F286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFB788A-543F-4EC4-88BB-7C760543F286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278ED5BE-64AB-4791-9361-20E143951C51}
+	EndGlobalSection
+EndGlobal
